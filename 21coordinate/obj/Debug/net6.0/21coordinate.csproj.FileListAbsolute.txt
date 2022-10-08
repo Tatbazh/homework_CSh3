@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\bin\Debug\net6.0\21coordinate.exe
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\bin\Debug\net6.0\21coordinate.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\bin\Debug\net6.0\21coordinate.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\bin\Debug\net6.0\21coordinate.dll
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\bin\Debug\net6.0\21coordinate.pdb
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.dll
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\refint\21coordinate.dll
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.pdb
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\21coordinate.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson3CSh\homework3CSh\21coordinate\obj\Debug\net6.0\ref\21coordinate.dll
