@@ -1,12 +1,13 @@
-﻿// входные данные - координаты 2-х точек, 
+﻿// Задача 21. входные данные - координаты 2-х точек, 
 // выводные - расстояние между точками в 3D пространстве
+// например - A (3,6,8); B (2,1,-7), -> 15.84
+//           A (7,-5, 0); B (1,-1,9) -> 11.53
 double Distance (int x1, int y1, int z1, int x2, int y2, int z2)
 {
     double result;
     result = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2));
     return result;
 }
-
 Console.Write("Введите координату X точки А: ");
 int ax = int.Parse(Console.ReadLine()!);
 Console.Write("Введите координату Y точки А: ");
